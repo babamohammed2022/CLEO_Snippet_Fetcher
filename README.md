@@ -1,3 +1,4 @@
+![CLEO Snippet Finder](https://raw.githubusercontent.com/babamohammed2022/small-cheese/main/app.ico)
 # CLEO Snippet Finder - Help & Information
 
 ## Disclaimer
